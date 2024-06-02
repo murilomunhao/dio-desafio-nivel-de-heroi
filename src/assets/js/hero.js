@@ -52,21 +52,21 @@ document.addEventListener('DOMContentLoaded', function () {
   
   function setBackgroundImage(xpValue) {
     if (xpValue < 1000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-ferro.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-ferro.webp')";
     } else if (xpValue >= 1001 && xpValue <= 2000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-bronze.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-bronze.webp')";
     } else if (xpValue >= 2001 && xpValue <= 5000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-prata.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-prata.webp')";
     } else if (xpValue >= 5001 && xpValue <= 7000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-ouro.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-ouro.webp')";
     } else if (xpValue >= 7001 && xpValue <= 8000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-platina.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-platina.webp')";
     } else if (xpValue >= 8001 && xpValue <= 9000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-ascendente.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-ascendente.webp')";
     } else if (xpValue >= 9001 && xpValue <= 10000) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-imortal.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-imortal.webp')";
     } else if (xpValue >= 10001) {
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-radiante.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-radiante.webp')";
     }
   }
 
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function () {
       nameHero.textContent = valueName;
     } else {
       nameHero.textContent = "";
-      elemento.style.backgroundImage = "url('/src/assets/img/bg-card.webp')";
+      elemento.style.backgroundImage = "url('./src/assets/img/bg-card.webp')";
     }
 
     if (value != 0) {
