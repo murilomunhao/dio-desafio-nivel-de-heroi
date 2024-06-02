@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Classificador de nível de herói</title>
+    <link rel="stylesheet" href="/src/assets/css/main.css" />
+    <script src="/src/assets/js/hero.js" ></script>
+  </head>
+  <body class="bg-img">
+    <audio id="bg-song" src="/src/assets/audio/bg.wav" loop></audio>
+    <audio id="card-song" src="/src/assets/audio/flip-card.wav"></audio>
+    <audio id="alert-song" src="/src/assets/audio/alert.wav" ></audio>
+    <main>
+      <div class="alert">
+        <h2>Atenção!</h2>
+        <p>Você precisa digitar um nome para o Herói</p>
+      </div>
+      <header>
+        <h1>Classificador de nível de herói</h1>
+      </header>
+      <section>
+        <div class="card-hero" id="card-hero">
+          <div class="card-img"></div>
+        </div>
+        <div class="info-hero">
+          <div><h3 class="info-name"></h3></div>
+          <div><h3 class="info-xp"></h3></div>
+        </div>
+      </section>
+      <section>
+        <form class="form-hero" action="#" method="post">
+          <div class="form-group">
+            <label for="name-hero">Herói:</label>
+            <input class="name-hero" type="text" name="name-hero" id="name-hero" maxlength="10">
+          </div>
+          <div class="form-group">
+            <label for="xp-range">XP</label>
+            <input class="xp-range" id="xp-range" name="xp-range" type="range" min="0" max="11000" step="1" maxlength="5" value="0">
+          </div>
+        <button class="btn" type="button">Verificar</button>
+        </form>
+      </section>
+      <footer>
+        <h4>Projeto do curso <span>Bootcamp Santander 2024 - Criando Jogos com Godot</span></h4>
+        <h4>Desenvolvido por <a href="https://www.dio.me/users/contato_25182" target="_blank">Murilo Munhão</a></h4>
+      </footer>
+    </main>
+  </body>
+</html>
