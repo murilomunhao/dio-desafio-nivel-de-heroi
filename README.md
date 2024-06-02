@@ -14,13 +14,12 @@ Neste projeto o objetivo era criar um classificador de nível, de acordo com o n
 
 Para este projeto utilizei alguns recursos como, imagens, áudios para ambientação e efeitos, CSS, HTML5 e JAVASCRIPT.
 
-Como recursos de imagens utilizei como background para representar os níveis conforme abaixo.
-
-| <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/6423a5bd-c33b-4c42-ba0a-17bb291c2bc7"> | <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/a940b3db-ac95-4da5-9ca7-cb1b3c0bd3e8"> | <img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/35ec88c0-99eb-4f69-924a-86889d0e6a52"> | <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/7aaa7773-306d-435a-88bb-7d1d2d606e97">|
-|:---:|:---:|:---:|:---:|
-
-| <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/9b755fa7-a773-469e-942a-e5de729f92c7"> | <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/9bbdcb95-ddbd-4875-980d-b6f0e4b5d000"> | <img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/2b6c6389-0322-4f58-a2e2-431e968ed468"> | <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/1e345c4b-8ca5-4171-93c5-e19bfcbc0875">|
-|:---:|:---:|:---:|:---:|
-
-
+Como recursos de imagens utilizei background para representar os níveis conforme abaixo.
+<center>
+ <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/df301ad2-9943-4ac6-b058-28bf494c7ad2"><img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/90e8335a-ad20-4d2c-9267-164f05eebcf3"><img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/b12a16e8-4ed5-42d5-83fb-c97b763b16a3"> </center>
+<center>
+<img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/d091df25-39de-45c5-a220-54a6823e5948"><img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/f883ebf4-565c-4663-8413-0572b5e0d98a"><img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/0f594c59-1a24-458b-a43f-7d1c21c0b217"></center>
+<center>
+<img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/0f980318-bfce-4454-9620-4243bcfe4c2f"><img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/e0856516-30b9-45d5-9458-c2bb05e6fc1f"><img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/d6670251-f26a-48e6-ad36-ec0bd5b7df0c">
+</center>
 
