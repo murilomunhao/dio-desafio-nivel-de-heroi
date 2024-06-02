@@ -152,7 +152,7 @@
   }
 }
 /* Ajuste para tablets e desktop */
-@media screen and ( min-width: 768px ) {
+@media screen and ( min-width: 321px ) {
   main{
   max-width: 360px;
   max-height: 780px;
@@ -240,7 +240,8 @@ header h1{
   display: flex;
   flex-direction: row;
   flex-grow: 2;
-  
+  margin-left: auto;
+  margin-right:auto ;  
 }
 .info-hero > div{
   display: flex;
