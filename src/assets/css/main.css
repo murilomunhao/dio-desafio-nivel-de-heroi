@@ -186,7 +186,7 @@ body{
 }
 
 main{
-  
+  align-content: center;
   margin-left: auto;
   margin-right: auto;
   padding: 0 10px 0 10px;
