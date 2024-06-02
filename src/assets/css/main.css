@@ -152,7 +152,7 @@
   }
 }
 /* Ajuste para tablets e desktop */
-@media screen and ( min-width: 321px ) {
+@media screen and ( min-width: 600px ) {
   main{
   max-width: 360px;
   max-height: 780px;
