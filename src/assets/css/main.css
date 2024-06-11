@@ -207,7 +207,7 @@ header h1{
   font-family: "IM Fell English", serif;
   font-weight: 600;
   font-style: normal;
-  font-size: clamp(1.5em, 1em + 1.5vw, 2em);
+  font-size: clamp(1.5em, 1.5em + 1.5vw, 2em);
   color: #ffffff;
   text-shadow: -1px -1px 0 #000,  
   1px -1px 0 #000,
@@ -252,7 +252,9 @@ header h1{
   background-position:center;
   background-size:contain;
   align-items: center;
-  justify-content: center; 
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .info-hero div h3{
   color: #262726;
