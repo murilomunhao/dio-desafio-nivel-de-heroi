@@ -25,3 +25,6 @@ Como recursos de imagens utilizei background para representar os níveis conform
 
 |<img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/0f980318-bfce-4454-9620-4243bcfe4c2f"> | <img height="300" width="200" src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/e0856516-30b9-45d5-9458-c2bb05e6fc1f"> | <img height="300" width="200"  src="https://github.com/murilomunhao/dio-desafio-nivel-de-heroi/assets/7818593/d6670251-f26a-48e6-ad36-ec0bd5b7df0c"> |
 |---|---|---|
+
+Acesse uma versão web 
+[https://murilomunhao.github.io/dio-calculadora-de-partidas-rankeadas](https://murilomunhao.github.io/dio-desafio-nivel-de-heroi/)
